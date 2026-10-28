@@ -1,0 +1,5 @@
+﻿segment,customers,median_recency,median_frequency,median_value_cents
+其他已购客户,636,104.0,2.0,40594.5
+历史高频需关注,49,122.0,4.0,93894.0
+近期低频,121,19.0,1.0,23022.0
+高活跃高价值,195,23.0,6.0,133321.0
